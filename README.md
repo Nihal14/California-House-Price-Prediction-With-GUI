@@ -8,3 +8,5 @@ This project aims to develop a machine-learning model that can accurately predic
 ![Screenshot (152)](https://github.com/Nihal14/California-House-Price-Prediction-With-GUI/assets/75977175/a8f4ebc8-ad7c-46ee-a9a6-71f7d6aaca11)
 ![Screenshot (154)](https://github.com/Nihal14/California-House-Price-Prediction-With-GUI/assets/75977175/c6983de1-ff54-4de4-af42-f855fac40ce0)
 ![Screenshot (155)](https://github.com/Nihal14/California-House-Price-Prediction-With-GUI/assets/75977175/74e9afb0-1f59-46f2-a3f7-c99fb253758d)
+![Screenshot (153)](https://github.com/Nihal14/California-House-Price-Prediction-With-GUI/assets/75977175/a3194c30-e9e6-4faa-96cc-43a589062569)
+
