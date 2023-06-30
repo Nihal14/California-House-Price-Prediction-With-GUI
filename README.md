@@ -1,1 +1,3 @@
 # California-House-Price-Prediction-With-GUI
+
+This project aims to develop a machine-learning model that can accurately predict house prices in California. By analyzing a comprehensive dataset with relevant features such as location, number of rooms, population, median income, and median house value, the model aims to uncover patterns and relationships to make precise predictions. The project aims to leverage various machine learning algorithms, data preprocessing techniques, and evaluation metrics to create a robust and reliable prediction model. The ultimate goal is to provide valuable insights into California's housing market, assist stakeholders in making informed decisions, and enhance the accuracy of house price predictions.
